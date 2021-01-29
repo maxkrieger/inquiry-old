@@ -15,6 +15,8 @@ The pages definitely don't adhere to [Andy's Evergreen Notes](https://notes.andy
 - [[flowing-comic-layouts]]
 - [[saga-tales]]
 - [[apl-spreadsheet]]
+- [[better-reading]]
+- [[system-archaeology]]
 - [[microworld-languages]]
 - [[why-proof-assistants-bad]]
 
@@ -28,6 +30,8 @@ The pages definitely don't adhere to [Andy's Evergreen Notes](https://notes.andy
 [flowing-comic-layouts]: flowing-comic-layouts.md "Flowing Comic Layouts"
 [saga-tales]: saga-tales.md "Chat Documents"
 [apl-spreadsheet]: apl-spreadsheet.md "Linear Algebra as Spreadsheet"
+[better-reading]: better-reading.md "Reading, but good"
+[system-archaeology]: system-archaeology.md "System Archaeology"
 [microworld-languages]: microworld-languages.md "Domain-Learning with Computational Microworlds"
 [why-proof-assistants-bad]: why-proof-assistants-bad.md "Why are proof assistants so unfriendly?"
 [mixloupe]: mixloupe.md "How do you make mixtapes in the current year?"
