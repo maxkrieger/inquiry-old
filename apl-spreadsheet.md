@@ -45,6 +45,7 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 - ["Spectral decomposition? Oh you mean like when a ghost dies?"](https://twitter.com/likethebuilder/status/1326583332306554880?s=19)
 
 ![](attachments/2021-01-29-01-21-47.png)
+
 "What's my name jack?" in Toki Pona. Some sort of MS Paint adventures thing. No idea what it means. I think I got it from a toki pona subreddit.
 
 ### other
@@ -74,7 +75,7 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 - Not sure.
   - Might be internalized trauma taking linear algebra without something that feels nice to use ([[microworld-languages]]).
   - Practitioners make numpy mistakes a lot I bet
-  - How do you communicate intuition about powerful ideas in linalg? Are pictures the best we have? What about the _algebra_, and the _data_ embedded in every matrix?
+  - How do you communicate intuition about [powerful ideas](https://llk.media.mit.edu/courses/readings/Papert-Big-Idea.pdf) in linalg? Are pictures the best we have? What about the _algebra_, and the _data_ embedded in every matrix?
 - The semantics of Linear Algebra are pretty well-defined I think? That's why it's an algebra, right?
 - I want to do casual mathematics
 - Linear Algebra can model a lot of other domains of math. Not to mention it's pretty useful for physics. So maybe the interface paradigm can be juiced into domain-specific applications ([[juicing]], [[bottom-up]]).

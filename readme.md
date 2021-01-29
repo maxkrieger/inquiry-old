@@ -1,4 +1,4 @@
-# Inquiry
+# Max's Inquiry
 
 This is [Max Krieger](https://a9.io)'s "inquiry" page. I guess it's like a [Digital Garden](https://github.com/MaggieAppleton/digital-gardeners). But I'm not trying to upload my Second Brain to it. Just want to share some half-baked ideas. One source of inspiration for this was Kevin Lynagh's ["Collaboration ideas"](https://kevinlynagh.com/ideas/).
 
