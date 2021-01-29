@@ -2,7 +2,7 @@
 
 ![](attachments/2021-01-29-02-00-19.png)
 
-Artifacts of the Artificial was an installation show I made with [Cameron Burgess](https://cameron-burgess.com/) in Fall of 2019. It was inside CMU's on-campus Frame gallery.
+Artifacts of the Artificial was an installation show I made with [Cameron Burgess](https://cameron-burgess.com/) in Fall of 2019. It was inside CMU's on-campus [Frame gallery](https://www.facebook.com/theframegallerycmu/).
 
 ![](attachments/2021-01-29-01-56-36.png)
 (thanks to Cameron for making the kickass display and pretty much all of the rest of the show)
