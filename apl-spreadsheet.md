@@ -57,6 +57,7 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 - ["Verb-noun vs noun-verb"](https://mobile.twitter.com/tophtucker/status/1278184444428529665?s=19)
 - [Mito: Edit a spreadsheet. Generate Python. All in Jupyter.](https://trymito.io/)
 - [Responsive Matrix Cells: A Focus+Context Approach for Multivariate Graphs](https://imld.de/en/research/research-projects/responsive-matrix-cells/)
+- [Loglo](https://loglo.app/)
 
 ## Semantics refs
 
