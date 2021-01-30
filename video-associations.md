@@ -1,13 +1,17 @@
-# Video Hypnagogia
+# Video Hypnagogia/Phantasmagoria
 
 Inspired by my time at [Reduct](https://reduct.video) and [Rob Ochshorn's work](https://rmozone.com/).
 
 From Glue discord:
 
-> I wonder if there is a glue-y video navigation concept. not oral navigable timelines, not reduct reels, and not tiktok/clips
-> deleuze did a lot of cinema work
+> I wonder if there is a glue-y video navigation concept. not oral navigable timelines, and not tiktok/clips
+
+> Deleuze did a lot of cinema work
+
 > it would be sorta a hallucinatory recursive network of scene-bubbles dangling off each other like kinopio
+
 > 4chan threads, images-only but more cyclical
+
 > and then you can extract a range by scrubbing on the little bubble
 
 ## VJing but with content
