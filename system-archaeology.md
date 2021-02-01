@@ -4,6 +4,8 @@ Old authoring systems have a more holistic/comfy feel because they _were_ the sy
 
 Comparative archaeology. What's easier or harder to do? What's the texture?
 
+**Let's explore these systems together. Let's make things in them. Let's talk about how they _feel_ to use, and how they make you feel.**
+
 **These are usually not text based.** If they are, they have some sort of deep runtime that can be examined live.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Growing up within a worldview of &quot;apps&quot; and &quot;dev tools&quot; constrains people to see everything in those terms. It can take tremendous unlearning to even be able to /see/ an &quot;authoring is always on&quot; system for what it is. <a href="https://t.co/WJhh5OR44B">https://t.co/WJhh5OR44B</a></p>&mdash; Bret Victor (@worrydream) <a href="https://twitter.com/worrydream/status/1036667880778223617?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -13,8 +15,6 @@ Comparative archaeology. What's easier or harder to do? What's the texture?
 ![](attachments/2021-02-01-16-30-24.png)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">when talking about systems (OSes, PLs, games, applications), I think reading about them and their history is somewhat overrated, and actually _using_ / playing with them is underrated<br><br>(although finding a thing to use them for is often hard)</p>&mdash; Omar Rizwan (@rsnous) <a href="https://twitter.com/rsnous/status/1290203117649162240?ref_src=twsrc%5Etfw">August 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-discussing how you "feel" internally while using these systems
 
 benchmarks: todo list etc
 
