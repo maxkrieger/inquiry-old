@@ -1,3 +1,75 @@
-# System Archaeology
+# System Archaeology Seminar
 
-- [Archaeology of CAD](http://dcardo.com/projects/archaeology_of_cad/index.html)
+Old authoring systems have a more holistic feel because they _were_ the system, not the app.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Growing up within a worldview of &quot;apps&quot; and &quot;dev tools&quot; constrains people to see everything in those terms. It can take tremendous unlearning to even be able to /see/ an &quot;authoring is always on&quot; system for what it is. <a href="https://t.co/WJhh5OR44B">https://t.co/WJhh5OR44B</a></p>&mdash; Bret Victor (@worrydream) <a href="https://twitter.com/worrydream/status/1036667880778223617?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s cool to read about influential old software like Sketchpad but also sad that often they&#39;ve been lost to the sands of time and so we can&#39;t play with them.</p>&mdash; yoshiki (@yoshikischmitz) <a href="https://twitter.com/yoshikischmitz/status/1274957057884450818?ref_src=twsrc%5Etfw">June 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![](attachments/2021-02-01-16-30-24.png)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">when talking about systems (OSes, PLs, games, applications), I think reading about them and their history is somewhat overrated, and actually _using_ / playing with them is underrated<br><br>(although finding a thing to use them for is often hard)</p>&mdash; Omar Rizwan (@rsnous) <a href="https://twitter.com/rsnous/status/1290203117649162240?ref_src=twsrc%5Etfw">August 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+discussing how you "feel" internally while using these systems
+
+benchmarks: todo list etc
+
+- Squeak
+- Etoys
+- [Self](https://selflanguage.org/)
+- Forms/3
+- Hypercard
+- GRAIL
+  ![](attachments/2021-02-01-16-06-06.png)
+
+- [Apple Dylan](https://opendylan.org/history/apple-dylan/screenshots/)
+- [HyperTIES](http://www.cs.umd.edu/hcil/hyperties/)
+- [Plan9](https://merveilles.town/@neauoire/104717468496151278)
+  ![](attachments/2021-02-01-16-38-33.png)
+
+- [IRIS Intermedia System](https://vimeo.com/channels/190946/20662680)
+- [NLS Hyperscope](http://codinginparadise.org/ebooks/html/blog/hyperscope_screencast.html)
+- [JUNO-2]()
+- Brad retrospective systems
+- Brad video system
+- Chorus
+- Subtext
+- CDG/HARC
+- ThingLab
+- the modifiable web thing
+- [STEPS](http://www.vpri.org/pdf/tr2012001_steps.pdf)
+
+![](attachments/2021-02-01-15-55-02.png)
+
+([Forms/3](https://pdfs.semanticscholar.org/a074/a04c61f097ee9ad13f9061aee95d1dd0c01f.pdf))
+
+## Misc
+
+![](attachments/2021-02-01-16-34-51.png)
+![](attachments/2021-02-01-16-34-59.png)
+
+https://macintoshgarden.org/apps/science-math?page=2
+
+Would it be on Hyperlink.academy?
+
+- [**Archaeology of CAD**](http://dcardo.com/projects/archaeology_of_cad/index.html)
+- [List of Fantasy Consoles](https://paladin-t.github.io/fantasy/index)
+- [Why Hypercard Had to Die](http://www.loper-os.org/?p=568)
+- [Byte Magazine Volume 06 Number 08 - Smalltalk](https://archive.org/details/byte-magazine-1981-08)
+- [JOY LISI RANKIN: A PEOPLE'S HISTORY OF COMPUTING IN THE UNITED STATES](https://youtu.be/eEU9cwSzaBM?t=1895) (via Yoshiki Schmitz)
+- [Kernel Perspective on Twitter](https://twitter.com/unix_byte) finds some great stuff.
+  ![](attachments/2021-02-01-16-37-13.png)
+
+- [Thoughts on (and pics of) the original Macintosh User Manual](https://www.peterme.com/2007/08/27/thoughts-on-and-pics-of-the-original-macintosh-user-manual/)
+- [Hypercard Poetry (Hyperpoems)](https://twitter.com/mkirschenbaum/status/1301898638994571266?s=19)
+- [Eazel Desktop Environment](https://web.archive.org/web/20000510014027/http://www.eazel.com:80/)
+  ![](attachments/2021-02-01-16-44-01.png)
+
+- [BBC Computer Literacy Project](https://clp.bbcrewind.co.uk/) (broken link?)
+- [Momenta Smalltalk Tablet](http://kamranelahian.com/project/momenta/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here’s the Katz’s History of Mathematics (table of contents and the cover in the tweet below). Every chapter has a bunch of exercises, where you have to show or prove or solve something using the methodologies or number systems used in the chapter. <a href="https://t.co/nRMGQoMcor">https://t.co/nRMGQoMcor</a> <a href="https://t.co/RarQQC8CBQ">pic.twitter.com/RarQQC8CBQ</a></p>&mdash; 🍓Eli🌿virtual plant maker🌟 (@logicsoup) <a href="https://twitter.com/logicsoup/status/1355941297169829888?ref_src=twsrc%5Etfw">January 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![](attachments/2021-02-01-16-56-40.png)
+
+From Yoshiki Schmitz. Sources unknown right now.

@@ -11,14 +11,14 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 
 - [Calculus with Julia](https://juliahub.com/docs/CalculusWithJulia/AZHbv/0.0.5/)
 - [Statistics with Julia](https://statisticswithjulia.org/)
-- [Designing Sound (with Pd)](https://mitpress.mit.edu/books/designing-sound)
-- [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics)
-- [Functional differential geometry](https://mitpress.mit.edu/books/functional-differential-geometry)
+- [Designing Sound](https://mitpress.mit.edu/books/designing-sound) (with Pd)
+- [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics) (in Scheme)
+- [Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry) (in Scheme)
 - [Qiskit](https://github.com/Qiskit/qiskit/)
 - [Programming Language Foundations in Agda](https://plfa.github.io/)
 - [Monotone Co-design Theory](https://co-design.science/animations/)
 - [ArviZ: Exploratory analysis of Bayesian models](https://arviz-devs.github.io/arviz/)
-- [Xena Project's Lean "Natural Number Game"](https://wwwf.imperial.ac.uk/~buzzard/xena/)
+- [Xena Project](https://wwwf.imperial.ac.uk/~buzzard/xena/) (check their Lean "Natural Number Game")
 - [PyZX](https://pyzx.readthedocs.io/en/latest/)
 - [Turtles Termites and Traffic Jams](https://mitpress.mit.edu/books/turtles-termites-and-traffic-jams)
 - [Arend Theorem Prover](https://arend-lang.github.io/) - Cubical Type Theory as an IntelliJ Plugin
@@ -28,8 +28,10 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [The Little Typer](https://mitpress.mit.edu/books/little-typer)
 - [Think Complexity](https://greenteapress.com/complexity/)
 - [All Hail Geometric Algebra!](https://crypto.stanford.edu/~blynn/haskell/ga.html) - (in Haskell)
+- [Math as Code](https://github.com/Jam3/math-as-code) - a bit disappointing in scope, but fun sentiment
+- [Fantasy Land](https://github.com/fantasyland/fantasy-land) - Algebraic JavaScript Specification
 
-Note: I'm neglecting tons of python stuff. Probably mostly because I think type systems are useful for learning things :-)
+Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)
 
 ### Misc
 
