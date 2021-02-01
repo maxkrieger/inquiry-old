@@ -1,5 +1,7 @@
 # Linear Algebra as Spreadsheet
 
+*Thanks to Garth Goldwater for a lot of the ideas here*
+
 [The metaphor isn't mine](https://betterexplained.com/articles/linear-algebra-guide/). But it's a good one!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Is there an intrinsic reason MATLAB-esque tasks can&#39;t be as WYSIWYG as a spreadsheet?<br><br>How do you represent matrix multiplication in a graphical environment? I want to drag and drop my eigendecomposition as tangibly as a sort operation.</p>&mdash; Max Krieger (@maxkriegers) <a href="https://twitter.com/maxkriegers/status/1246619921896873985?ref_src=twsrc%5Etfw">April 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -39,6 +41,7 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 - [BQN: finally, an APL for your flying saucer](https://mlochbaum.github.io/BQN/)
 - [Co-dfns](https://github.com/Co-dfns/Co-dfns)
 - [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
+-  [CoSy](http://cosy.com/CoSy/)
 
 ### Aesthetics
 
@@ -57,6 +60,7 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 - ["Verb-noun vs noun-verb"](https://mobile.twitter.com/tophtucker/status/1278184444428529665?s=19)
 - [Mito: Edit a spreadsheet. Generate Python. All in Jupyter.](https://trymito.io/)
 - [Responsive Matrix Cells: A Focus+Context Approach for Multivariate Graphs](https://imld.de/en/research/research-projects/responsive-matrix-cells/)
+- [Loglo](https://loglo.app/)
 
 ## Semantics refs
 
