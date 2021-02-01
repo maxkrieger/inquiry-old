@@ -1,6 +1,8 @@
 # System Archaeology Seminar
 
-Old authoring systems have a more holistic feel because they _were_ the system, not the app.
+Old authoring systems have a more holistic/comfy feel because they _were_ the system, not the app.
+
+**These are not text based.** If they are, they have some sort of UI wrapping around them.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Growing up within a worldview of &quot;apps&quot; and &quot;dev tools&quot; constrains people to see everything in those terms. It can take tremendous unlearning to even be able to /see/ an &quot;authoring is always on&quot; system for what it is. <a href="https://t.co/WJhh5OR44B">https://t.co/WJhh5OR44B</a></p>&mdash; Bret Victor (@worrydream) <a href="https://twitter.com/worrydream/status/1036667880778223617?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -14,7 +16,9 @@ discussing how you "feel" internally while using these systems
 
 benchmarks: todo list etc
 
-- Squeak
+- [Smalltalk Zoo](https://smalltalkzoo.thechm.org/)
+- [Squeak](https://squeak.js.org/)
+  - Early Scratch?
 - Etoys
 - [Self](https://selflanguage.org/)
 - Forms/3
@@ -29,15 +33,37 @@ benchmarks: todo list etc
 
 - [IRIS Intermedia System](https://vimeo.com/channels/190946/20662680)
 - [NLS Hyperscope](http://codinginparadise.org/ebooks/html/blog/hyperscope_screencast.html)
-- [JUNO-2]()
+  ![](attachments/2021-02-01-17-18-54.png)
+
+- [JUNO-2](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.37.7482)
 - Brad retrospective systems
-- Brad video system
+  ![](attachments/2021-02-01-17-22-16.png)
+
+- [Cedar, Mesa, Tioga](https://www.youtube.com/watch?v=z_dt7NG38V4)
+
+  - [Cedar Glossary](http://www.bitsavers.org/pdf/xerox/parc/cedar/Cedar_7.0/02_A_Glossary_of_Terms_Subsystems_Directories_and_Files_May1987.pdf)
+    ![](attachments/2021-02-01-17-25-29.png)
+
+- [Gargoyle](https://www.youtube.com/watch?v=f0KqT3J67Vw)
+  ![](attachments/2021-02-01-17-31-36.png)
+  ![](attachments/2021-02-01-17-31-52.png)
+  ![](attachments/2021-02-01-17-32-34.png)
+
+- [The Silver Project](https://www.cs.cmu.edu/afs/cs.cmu.edu/project/silver/www/publications.html)
 - Chorus
 - Subtext
 - CDG/HARC
 - ThingLab
-- the modifiable web thing
+- Alternate Reality Kit
+  ![](attachments/2021-02-01-17-06-42.png)
+
+- [Fabrik](http://sp.cmc.msu.ru/courses/smalltalk/fabrik/Fabrik.html)
+- [Lively Web](https://lively-web.org/) (not dead yet!)
 - [STEPS](http://www.vpri.org/pdf/tr2012001_steps.pdf)
+- Xanadu/Zipper?
+- [Aardappel](http://strlen.com/aardappel-language/)
+- [Bounce](https://donhopkins.medium.com/bounce-stuff-8310551a96e3)
+- [Whyline](https://www.cs.cmu.edu/~NatProg/whyline.html) (2005)
 
 ![](attachments/2021-02-01-15-55-02.png)
 
@@ -67,9 +93,16 @@ Would it be on Hyperlink.academy?
 
 - [BBC Computer Literacy Project](https://clp.bbcrewind.co.uk/) (broken link?)
 - [Momenta Smalltalk Tablet](http://kamranelahian.com/project/momenta/)
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here’s the Katz’s History of Mathematics (table of contents and the cover in the tweet below). Every chapter has a bunch of exercises, where you have to show or prove or solve something using the methodologies or number systems used in the chapter. <a href="https://t.co/nRMGQoMcor">https://t.co/nRMGQoMcor</a> <a href="https://t.co/RarQQC8CBQ">pic.twitter.com/RarQQC8CBQ</a></p>&mdash; 🍓Eli🌿virtual plant maker🌟 (@logicsoup) <a href="https://twitter.com/logicsoup/status/1355941297169829888?ref_src=twsrc%5Etfw">January 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- [Computer Utopias](http://chrisnovello.com/teaching/risd/computer-utopias/)
+- [VPL/Body Electric](http://www.jaronlanier.com/vpl.html)
+- mind-bicycles, VPL codex, CHM
+- demos, etc
+- [Old CHI video list](http://www.cs.umd.edu/hcil/chivideoslist/index.shtml)
 
 ![](attachments/2021-02-01-16-56-40.png)
 
 From Yoshiki Schmitz. Sources unknown right now.
+
+### Recapitulating computing
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here’s the Katz’s History of Mathematics (table of contents and the cover in the tweet below). Every chapter has a bunch of exercises, where you have to show or prove or solve something using the methodologies or number systems used in the chapter. <a href="https://t.co/nRMGQoMcor">https://t.co/nRMGQoMcor</a> <a href="https://t.co/RarQQC8CBQ">pic.twitter.com/RarQQC8CBQ</a></p>&mdash; 🍓Eli🌿virtual plant maker🌟 (@logicsoup) <a href="https://twitter.com/logicsoup/status/1355941297169829888?ref_src=twsrc%5Etfw">January 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
