@@ -1,6 +1,6 @@
 # Linear Algebra as Spreadsheet
 
-*Thanks to Garth Goldwater for a lot of the ideas here*
+_Thanks to Garth Goldwater for a lot of the ideas here_
 
 [The metaphor isn't mine](https://betterexplained.com/articles/linear-algebra-guide/). But it's a good one!
 
@@ -41,7 +41,7 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 - [BQN: finally, an APL for your flying saucer](https://mlochbaum.github.io/BQN/)
 - [Co-dfns](https://github.com/Co-dfns/Co-dfns)
 - [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
--  [CoSy](http://cosy.com/CoSy/)
+- [CoSy](http://cosy.com/CoSy/)
 
 ### Aesthetics
 
@@ -61,6 +61,10 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 - [Mito: Edit a spreadsheet. Generate Python. All in Jupyter.](https://trymito.io/)
 - [Responsive Matrix Cells: A Focus+Context Approach for Multivariate Graphs](https://imld.de/en/research/research-projects/responsive-matrix-cells/)
 - [Loglo](https://loglo.app/)
+
+![](attachments/2021-02-01-17-39-06.png)
+
+(Forms/3)[https://pdfs.semanticscholar.org/a074/a04c61f097ee9ad13f9061aee95d1dd0c01f.pdf]
 
 ## Semantics refs
 

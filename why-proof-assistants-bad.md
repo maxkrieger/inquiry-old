@@ -10,6 +10,8 @@ Some logic can be a game: see [The Incredible Proof Machine](https://incredible.
 ## Links
 
 - [Proofscape](https://royalroadmath.org/newpfsc.html)
+- [Holbert Theorem Prover](http://liamoc.net/holbert/)
+- [Proof Tree Builder](https://joom.github.io/proof-tree-builder/src/) - [Joomy](https://www.cs.princeton.edu/~ckorkut/) seems to be working at the SOTA here.
 
 ## What if you could sonify proofs?
 

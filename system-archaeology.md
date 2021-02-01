@@ -2,7 +2,9 @@
 
 Old authoring systems have a more holistic/comfy feel because they _were_ the system, not the app.
 
-**These are not text based.** If they are, they have some sort of UI wrapping around them.
+Comparative archaeology. What's easier or harder to do? What's the texture?
+
+**These are usually not text based.** If they are, they have some sort of deep runtime that can be examined live.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Growing up within a worldview of &quot;apps&quot; and &quot;dev tools&quot; constrains people to see everything in those terms. It can take tremendous unlearning to even be able to /see/ an &quot;authoring is always on&quot; system for what it is. <a href="https://t.co/WJhh5OR44B">https://t.co/WJhh5OR44B</a></p>&mdash; Bret Victor (@worrydream) <a href="https://twitter.com/worrydream/status/1036667880778223617?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -16,9 +18,12 @@ discussing how you "feel" internally while using these systems
 
 benchmarks: todo list etc
 
+- Emacs and all its "do everything" insanity
+  - org-mode
 - [Smalltalk Zoo](https://smalltalkzoo.thechm.org/)
 - [Squeak](https://squeak.js.org/)
   - Early Scratch?
+  - Berkeley Snap!
 - Etoys
 - [Self](https://selflanguage.org/)
 - Forms/3
@@ -50,7 +55,7 @@ benchmarks: todo list etc
   ![](attachments/2021-02-01-17-32-34.png)
 
 - [The Silver Project](https://www.cs.cmu.edu/afs/cs.cmu.edu/project/silver/www/publications.html)
-- Chorus
+- [Chorus](http://www.chorus-home.org/) (ok, 2015)
 - Subtext
 - CDG/HARC
 - ThingLab
