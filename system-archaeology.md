@@ -29,27 +29,31 @@ benchmarks: todo list etc
 - Forms/3
 - Hypercard
 - GRAIL
-  ![](attachments/2021-02-01-16-06-06.png)
+
+![](attachments/2021-02-01-16-06-06.png)
 
 - [Apple Dylan](https://opendylan.org/history/apple-dylan/screenshots/)
 - [HyperTIES](http://www.cs.umd.edu/hcil/hyperties/)
 - [Plan9](https://merveilles.town/@neauoire/104717468496151278)
-  ![](attachments/2021-02-01-16-38-33.png)
+- ![](attachments/2021-02-01-16-38-33.png)
 
 - [IRIS Intermedia System](https://vimeo.com/channels/190946/20662680)
 - [NLS Hyperscope](http://codinginparadise.org/ebooks/html/blog/hyperscope_screencast.html)
-  ![](attachments/2021-02-01-17-18-54.png)
+- ![](attachments/2021-02-01-17-18-54.png)
 
 - [JUNO-2](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.37.7482)
 - Brad retrospective systems
+
   ![](attachments/2021-02-01-17-22-16.png)
 
 - [Cedar, Mesa, Tioga](https://www.youtube.com/watch?v=z_dt7NG38V4)
 
   - [Cedar Glossary](http://www.bitsavers.org/pdf/xerox/parc/cedar/Cedar_7.0/02_A_Glossary_of_Terms_Subsystems_Directories_and_Files_May1987.pdf)
+
     ![](attachments/2021-02-01-17-25-29.png)
 
 - [Gargoyle](https://www.youtube.com/watch?v=f0KqT3J67Vw)
+
   ![](attachments/2021-02-01-17-31-36.png)
   ![](attachments/2021-02-01-17-31-52.png)
   ![](attachments/2021-02-01-17-32-34.png)
@@ -60,6 +64,7 @@ benchmarks: todo list etc
 - CDG/HARC
 - ThingLab
 - Alternate Reality Kit
+
   ![](attachments/2021-02-01-17-06-42.png)
 
 - [Fabrik](http://sp.cmc.msu.ru/courses/smalltalk/fabrik/Fabrik.html)
