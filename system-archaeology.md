@@ -39,12 +39,13 @@ benchmarks: todo list etc
 
 - [IRIS Intermedia System](https://vimeo.com/channels/190946/20662680)
 - [NLS Hyperscope](http://codinginparadise.org/ebooks/html/blog/hyperscope_screencast.html)
-- ![](attachments/2021-02-01-17-18-54.png)
+
+![](attachments/2021-02-01-17-18-54.png)
 
 - [JUNO-2](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.37.7482)
 - Brad retrospective systems
 
-  ![](attachments/2021-02-01-17-22-16.png)
+![](attachments/2021-02-01-17-22-16.png)
 
 - [Cedar, Mesa, Tioga](https://www.youtube.com/watch?v=z_dt7NG38V4)
 
@@ -108,6 +109,10 @@ Would it be on Hyperlink.academy?
 - mind-bicycles, VPL codex, CHM
 - demos, etc
 - [Old CHI video list](http://www.cs.umd.edu/hcil/chivideoslist/index.shtml)
+
+![](attachments/2021-02-01-17-51-15.png)
+
+[ARTWare: A Component Library for Building Domain-Oriented Authoring Environments](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.445.7604&rep=rep1&type=pdf)
 
 ![](attachments/2021-02-01-16-56-40.png)
 
