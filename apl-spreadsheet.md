@@ -61,10 +61,12 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 - [Mito: Edit a spreadsheet. Generate Python. All in Jupyter.](https://trymito.io/)
 - [Responsive Matrix Cells: A Focus+Context Approach for Multivariate Graphs](https://imld.de/en/research/research-projects/responsive-matrix-cells/)
 - [Loglo](https://loglo.app/)
+- [Math Inspector](https://mathinspector.com/)
+  - > Math inspector makes it easy for anyone to leverage the power of numpy, the most popular computational mathematics library in the world, without needing to know anything about programming or writing any code. “If watching math videos is like going to the movies instead of reading a book, then math inspector is like playing a video game instead of doing your homework.”
 
 ![](attachments/2021-02-01-17-39-06.png)
 
-(Forms/3)[https://pdfs.semanticscholar.org/a074/a04c61f097ee9ad13f9061aee95d1dd0c01f.pdf]
+[Forms/3](https://pdfs.semanticscholar.org/a074/a04c61f097ee9ad13f9061aee95d1dd0c01f.pdf)
 
 ## Semantics refs
 
