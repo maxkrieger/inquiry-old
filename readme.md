@@ -8,6 +8,8 @@ Take everything I write here (well, everywhere) with a grain of salt. That said 
 
 The pages definitely don't adhere to [Andy's Evergreen Notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) pattern.
 
+Feel free to add [a PR or issue to the repo](https://github.com/maxkrieger/inquiry) to discuss any of these in public!
+
 ## Lately
 
 [Lately](https://www.youtube.com/watch?v=hj0TY5jhx3Q) I've been thinking about...
@@ -32,8 +34,8 @@ The pages definitely don't adhere to [Andy's Evergreen Notes](https://notes.andy
 [saga-tales]: saga-tales.md "Chat Documents"
 [apl-spreadsheet]: apl-spreadsheet.md "Linear Algebra as Spreadsheet"
 [better-reading]: better-reading.md "Reading, but good"
-[video-associations]: video-associations.md "Video Associations"
-[system-archaeology]: system-archaeology.md "System Archaeology"
+[video-associations]: video-associations.md "Video Hypnagogia/Phantasmagoria"
+[system-archaeology]: system-archaeology.md "System Archaeology Seminar"
 [microworld-languages]: microworld-languages.md "Domain-Learning with Computational Microworlds"
 [why-proof-assistants-bad]: why-proof-assistants-bad.md "Why are proof assistants so unfriendly?"
 [mixloupe]: mixloupe.md "How do you make mixtapes in the current year?"

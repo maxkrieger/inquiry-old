@@ -10,6 +10,12 @@ Some logic can be a game: see [The Incredible Proof Machine](https://incredible.
 ## Links
 
 - [Proofscape](https://royalroadmath.org/newpfsc.html)
+- [Holbert Theorem Prover](http://liamoc.net/holbert/)
+- [Proof Tree Builder](https://joom.github.io/proof-tree-builder/src/) - [Joomy](https://www.cs.princeton.edu/~ckorkut/) seems to be working at the SOTA here.
+
+![](attachments/2021-02-01-17-49-32.png)
+
+[The Transparent Prolog Machine](https://core.ac.uk/download/pdf/81925898.pdf)
 
 ## What if you could sonify proofs?
 
