@@ -36,6 +36,8 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 
 (related: [[microworld-languages]])
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">roads not taken or uneven distribution? <a href="https://t.co/SQmgowxTKL">pic.twitter.com/SQmgowxTKL</a></p>&mdash; andrew blinn (@disconcision) <a href="https://twitter.com/disconcision/status/1357395804332429318?ref_src=twsrc%5Etfw">February 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 ### Random implementations of related things
 
 - [BQN: finally, an APL for your flying saucer](https://mlochbaum.github.io/BQN/)
