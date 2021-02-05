@@ -7,3 +7,5 @@
 Ok so why can't we do it using Minecraft's metaphors: paper notes as request file descriptors. Logs as books. Chests as databases. Hoppers as routes.
 
 [It's time to build.](https://minecraft.makecode.com/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">if only this stuff was in any way useful <a href="https://t.co/xIr8sVofTO">pic.twitter.com/xIr8sVofTO</a></p>&mdash; ollybot 👥 (@ollybot_redux) <a href="https://twitter.com/ollybot_redux/status/1357398538066534400?ref_src=twsrc%5Etfw">February 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
