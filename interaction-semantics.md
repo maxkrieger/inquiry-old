@@ -12,6 +12,7 @@ What even is a program? You can make great Smalltalk ([[system-archaeology]]) pr
 
 - Context menus are cool, actually
 - [Histogram by Tomas Petricek](http://tomasp.net/histogram/) - "We represent programs as _lists of interactions_"
+- [Wrangler: Interactive Visual Specification of Data Transformation Scripts](http://idl.cs.washington.edu/papers/wrangler/)
 - [You can model the domain of raytracing by interacting with InkScape layers](https://github.com/damienBloch/Inkscape-raytracing)
 
 ![](attachments/2021-02-11-15-39-10.png)
