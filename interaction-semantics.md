@@ -6,11 +6,16 @@ Programming semantics are well-studied. What about direct manipulation semantics
 
 ([Fructure](https://github.com/disconcision/fructure). BTW I'm not just talking about program editors, they're just a convenient example to point to.)
 
-* Context menus are cool 
+## Authoring tools
+
+- Context menus are cool
+- [You can model the domain of raytracing by interacting with InkScape layers](https://github.com/damienBloch/Inkscape-raytracing)
+
+![](attachments/2021-02-11-15-39-10.png)
+
+- [Self Language](https://selflanguage.org/) (and other Morphic environments) turns green empty "morphs" into rich interactive objects just through right-clicking
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Verb-noun vs noun-verb” <a href="https://t.co/eNPRq3AqrC">https://t.co/eNPRq3AqrC</a><br><br>Thanks to Omar <a href="https://t.co/WZk6BIbXX4">https://t.co/WZk6BIbXX4</a> for reminding me of Amit’s excellent post; see also <a href="https://t.co/fdf7EPmvKW">https://t.co/fdf7EPmvKW</a>.<br><br>Anyone have any other good literature on subject-verb order in GUIs? <a href="https://t.co/ntvKPyO4cd">https://t.co/ntvKPyO4cd</a> <a href="https://t.co/BCLu2D7WVH">pic.twitter.com/BCLu2D7WVH</a></p>&mdash; TOoᴼᵒº˙⁰0₀ₒ.·ph (@tophtucker) <a href="https://twitter.com/tophtucker/status/1278184444428529665?ref_src=twsrc%5Etfw">July 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-- [You can model the domain of raytracing by interacting with InkScape layers](https://github.com/damienBloch/Inkscape-raytracing)
 
 ## Structure editing
 
