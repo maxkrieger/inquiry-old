@@ -17,14 +17,15 @@ Feel free to add [a PR or issue to the repo](https://github.com/maxkrieger/inqui
 - [[flowing-comic-layouts]]
 - [[saga-tales]]
 - [[apl-spreadsheet]]
-- [[better-reading]]
-- [[video-associations]]
 - [[system-archaeology]]
+- [[interaction-semantics]]
 - [[microworld-languages]]
-- [[why-proof-assistants-bad]]
 
 ## Other stuff
 
+- [[better-reading]]
+- [[why-proof-assistants-bad]]
+- [[video-associations]]
 - [[mixloupe]]
 - [[minecraft-rest]]
 - [[artifacts-artificial]]
@@ -33,11 +34,12 @@ Feel free to add [a PR or issue to the repo](https://github.com/maxkrieger/inqui
 [flowing-comic-layouts]: flowing-comic-layouts.md "Flowing Comic Layouts"
 [saga-tales]: saga-tales.md "Chat Documents"
 [apl-spreadsheet]: apl-spreadsheet.md "Linear Algebra as Spreadsheet"
-[better-reading]: better-reading.md "Reading, but good"
-[video-associations]: video-associations.md "Video Hypnagogia/Phantasmagoria"
 [system-archaeology]: system-archaeology.md "System Archaeology Seminar"
+[interaction-semantics]: interaction-semantics.md "How do you create an interaction semantics?"
 [microworld-languages]: microworld-languages.md "Domain-Learning with Computational Microworlds"
+[better-reading]: better-reading.md "Reading, but good"
 [why-proof-assistants-bad]: why-proof-assistants-bad.md "Why are proof assistants so unfriendly?"
+[video-associations]: video-associations.md "Video Hypnagogia/Phantasmagoria"
 [mixloupe]: mixloupe.md "How do you make mixtapes in the current year?"
 [minecraft-rest]: minecraft-rest.md "Making a REST API using Minecraft's metaphors"
 [artifacts-artificial]: artifacts-artificial.md "Artifacts of the Artificial"
