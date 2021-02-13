@@ -20,6 +20,7 @@ Feel free to add [a PR or issue to the repo](https://github.com/maxkrieger/inqui
 - [[system-archaeology]]
 - [[interaction-semantics]]
 - [[microworld-languages]]
+- [[text-design]]
 
 ## Other stuff
 
@@ -37,6 +38,7 @@ Feel free to add [a PR or issue to the repo](https://github.com/maxkrieger/inqui
 [system-archaeology]: system-archaeology.md "System Archaeology Seminar"
 [interaction-semantics]: interaction-semantics.md "How do you create an interaction semantics?"
 [microworld-languages]: microworld-languages.md "Domain-Learning with Computational Microworlds"
+[text-design]: text-design.md "Text is a design tool"
 [better-reading]: better-reading.md "Reading, but good"
 [why-proof-assistants-bad]: why-proof-assistants-bad.md "Why are proof assistants so unfriendly?"
 [video-associations]: video-associations.md "Video Hypnagogia/Phantasmagoria"
