@@ -18,12 +18,23 @@ Comparative archaeology. What's easier or harder to do? What's the texture?
 
 benchmarks: todo list etc
 
+## Collection
+
+Most of these, I later discovered, are a mere subset of Jonathan Edwards' formidable [Gallery of programmer interfaces](https://docs.google.com/presentation/d/e/2PACX-1vSPuf3eQ2tlCtXAif4gEWQQU-xK8EzhiH3SIfuD7vWy7eP4NN0-KRejbec_m-GF6-f_D95OOFyyoolx/pub?start=false&loop=false&delayms=3000&slide=id.g1da0625f1b_0_56)
+
 - Emacs and all its "do everything" insanity
   - org-mode
+- Symbolics Lisp
+- AgentSheets/AgentCubes
+- [Oney's InterState](https://joelbrandt.com/publications/oney_uist2014_interstate.pdf)
+- [Tinker PBD for Lisp](https://web.media.mit.edu/~lieber/Lieberary/Tinker/Tinker.html)
+- TouchDevelop (2011)
+- TouchDesigner
 - [Smalltalk Zoo](https://smalltalkzoo.thechm.org/)
 - [Squeak](https://squeak.js.org/)
   - Early Scratch?
   - Berkeley Snap!
+- [ToonTalk](http://www.toontalk.com/)
 - Etoys
 - [Self](https://selflanguage.org/)
 - Forms/3
@@ -63,7 +74,8 @@ benchmarks: todo list etc
 - [Chorus](http://www.chorus-home.org/) (ok, 2015)
 - Subtext
 - CDG/HARC
-- ThingLab
+- Borning's ThingLab
+- Goldberg's SimKit
 - Alternate Reality Kit
 
   ![](attachments/2021-02-01-17-06-42.png)
@@ -75,6 +87,13 @@ benchmarks: todo list etc
 - [Aardappel](http://strlen.com/aardappel-language/)
 - [Bounce](https://donhopkins.medium.com/bounce-stuff-8310551a96e3)
 - [Whyline](https://www.cs.cmu.edu/~NatProg/whyline.html) (2005)
+- [Boxer](https://web.media.mit.edu/~mres/papers/boxer.pdf)
+- [Alice Pascal](https://www.templetons.com/brad/alice.html)
+
+![](attachments/2021-02-11-22-56-46.png)
+
+- [Apple SK8](http://old.macintosh.garden/manuals/SK8_0.9_User_Guide.pdf)
+- [John Pane's HANDS](https://john.pane.net/research.html)
 
 ![](attachments/2021-02-01-15-55-02.png)
 
@@ -109,6 +128,11 @@ Would it be on Hyperlink.academy?
 - mind-bicycles, VPL codex, CHM
 - demos, etc
 - [Old CHI video list](http://www.cs.umd.edu/hcil/chivideoslist/index.shtml)
+- [Visual Programming Languages - Snapshots](http://blog.interfacevision.com/design/design-visual-progarmming-languages-snapshots/)
+- [Lowering the Barriers to Programming](https://www.cs.cmu.edu/~caitlin/papers/NoviceProgSurvey.pdf) - Kelleher & Pausch 2003
+- [Chaim Gingold - Gadget Survey](<http://chaim.io/download/Gingold%20(2017)%20Gadget%20(1)%20Survey.pdf>)
+- [The Early History of Smalltalk (Kay, reprinted by Victor)](http://worrydream.com/EarlyHistoryOfSmalltalk/)
+- [Jonathan Edwards - Gallery of programmer interfaces](https://docs.google.com/presentation/d/e/2PACX-1vSPuf3eQ2tlCtXAif4gEWQQU-xK8EzhiH3SIfuD7vWy7eP4NN0-KRejbec_m-GF6-f_D95OOFyyoolx/pub?start=false&loop=false&delayms=3000&slide=id.g1da0625f1b_0_56)
 
 ![](attachments/2021-02-01-17-51-15.png)
 
