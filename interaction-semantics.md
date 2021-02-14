@@ -2,6 +2,10 @@
 
 Programming semantics are well-studied. What about direct manipulation semantics? Can they be [in bijection](https://twitter.com/sliminality/status/1227791682038452225)?
 
+![](attachments/2021-02-13-23-23-06.png)
+
+([UI Continuations](http://people.csail.mit.edu/karger/Papers/uist2003-uicont.pdf))
+
 ![fructure](https://raw.githubusercontent.com/disconcision/fructure/master/screenshots/fructure-rounded-modified.gif)
 
 ([Fructure](https://github.com/disconcision/fructure). BTW I'm not just talking about program editors, they're just a convenient example to point to.)
@@ -11,6 +15,7 @@ Programming semantics are well-studied. What about direct manipulation semantics
 What even is a program? You can make great Smalltalk ([[system-archaeology]]) programs without writing much code at all. I'm not talking about [no-code/future-code](https://futureofcoding.org/catalog/), but rather, _writing a trace of behavior_ by _live_ (not premeditated) interactions on objects.
 
 - Context menus are cool, actually
+- [UI Continuations](http://people.csail.mit.edu/karger/Papers/uist2003-uicont.pdf) - curried context menus!!!
 - [Histogram by Tomas Petricek](http://tomasp.net/histogram/) - "We represent programs as _lists of interactions_"
 - [Wrangler: Interactive Visual Specification of Data Transformation Scripts](http://idl.cs.washington.edu/papers/wrangler/)
 - [You can model the domain of raytracing by interacting with InkScape layers](https://github.com/damienBloch/Inkscape-raytracing)
