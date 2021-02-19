@@ -11,7 +11,7 @@ No, not dynamicland. But a lightweight handheld version of [Sitterwerk Library](
 
 (from [Open tabs are cognitive spaces · Michail Rybakov](https://rybakov.com/blog/open_tabs_are_cognitive_spaces/))
 
-How bout that but for stuff I print out. With QR codes and a stamp? Thermal printer? Idk.
+How bout that but for stuff I print out. With QR codes and a stamp? Thermal sticker printer for fiducials? Idk.
 
 Es Devlin does something similar _in her mind_ in the [process piece here](https://www.youtube.com/watch?v=58UroGqQ1ls&feature=youtu.be).
 ![](attachments/2021-01-29-02-26-18.png)

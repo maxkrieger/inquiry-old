@@ -21,6 +21,7 @@ Feel free to add [a PR or issue to the repo](https://github.com/maxkrieger/inqui
 - [[interaction-semantics]]
 - [[microworld-languages]]
 - [[text-design]]
+- [[figma-hands]]
 
 ## Other stuff
 
@@ -40,6 +41,7 @@ Feel free to add [a PR or issue to the repo](https://github.com/maxkrieger/inqui
 [interaction-semantics]: interaction-semantics.md "How do you create an interaction semantics?"
 [microworld-languages]: microworld-languages.md "Domain-Learning with Computational Microworlds"
 [text-design]: text-design.md "Text is a design tool"
+[figma-hands]: figma-hands.md "Figma Hands"
 [linux-desktop]: linux-desktop.md "GNU/Linux as an environment to prototype desktop environments"
 [better-reading]: better-reading.md "Reading, but good"
 [why-proof-assistants-bad]: why-proof-assistants-bad.md "Why are proof assistants so unfriendly?"
