@@ -11,3 +11,7 @@ Can we make a fun tool like the dial in Teenage Engineering's new [OB-4](https:/
 I love the momentum and physical sound of rewinding on the OP-1:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gCA4I-yRbAs?start=12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+also
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9uKRqS98kIg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
