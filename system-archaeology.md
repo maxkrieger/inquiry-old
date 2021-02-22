@@ -20,7 +20,7 @@ benchmarks: todo list etc
 
 ## Collection
 
-Most of these, I later discovered, are a mere subset of Jonathan Edwards' formidable [Gallery of programmer interfaces](https://docs.google.com/presentation/d/e/2PACX-1vSPuf3eQ2tlCtXAif4gEWQQU-xK8EzhiH3SIfuD7vWy7eP4NN0-KRejbec_m-GF6-f_D95OOFyyoolx/pub?start=false&loop=false&delayms=3000&slide=id.g1da0625f1b_0_56)
+Most of these, I later discovered, are a mere subset of Jonathan Edwards' formidable [Gallery of programmer interfaces](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit)
 
 - Emacs and all its "do everything" insanity
   - org-mode
