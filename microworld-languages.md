@@ -10,6 +10,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 ## Examples
 
 - [Calculus with Julia](https://juliahub.com/docs/CalculusWithJulia/AZHbv/0.0.5/)
+  - [Math 229 Projects](http://mth229.github.io/) (College of Staten Island course on calculus with julia)
 - [Statistics with Julia](https://statisticswithjulia.org/)
 - [Designing Sound](https://mitpress.mit.edu/books/designing-sound) (with Pd)
 - [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics) (in Scheme)
