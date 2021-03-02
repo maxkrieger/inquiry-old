@@ -7,10 +7,15 @@ I loved Papert's Mindstorms. Part of why it resonated is simply because I like u
 
 It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in [The Dynamic Notebook](https://roadtoreality.substack.com/p/the-dynamic-notebook) and his ongoing effort to port [SICM](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics) there.
 
+![](attachments/2021-03-01-22-04-07.png)
+
+[ProbMods](https://probmods.org/chapters/social-cognition.html)
+
 ## Examples
 
 - [Calculus with Julia](https://juliahub.com/docs/CalculusWithJulia/AZHbv/0.0.5/)
   - [Math 229 Projects](http://mth229.github.io/) (College of Staten Island course on calculus with julia)
+- [Probabilistic Models of Cognition]() (taught with WebPPL, a probabilistic programming language)
 - [Statistics with Julia](https://statisticswithjulia.org/)
 - [Designing Sound](https://mitpress.mit.edu/books/designing-sound) (with Pd)
 - [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics) (in Scheme)
