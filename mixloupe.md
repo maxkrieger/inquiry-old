@@ -1,3 +1,7 @@
+---
+modified: 2021-03-02T21:30:23-05:00
+---
+
 # How do you make mixtapes in the current year?
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">how do u even make mixtapes without a tape... damn</p>&mdash; Max Krieger (@maxkriegers) <a href="https://twitter.com/maxkriegers/status/1303818284962377728?ref_src=twsrc%5Etfw">September 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -15,3 +19,5 @@ I love the momentum and physical sound of rewinding on the OP-1:
 also
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9uKRqS98kIg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Related: [[video-associations]]
