@@ -36,6 +36,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [All Hail Geometric Algebra!](https://crypto.stanford.edu/~blynn/haskell/ga.html) - (in Haskell)
 - [Math as Code](https://github.com/Jam3/math-as-code) - a bit disappointing in scope, but fun sentiment
 - [Fantasy Land](https://github.com/fantasyland/fantasy-land) - Algebraic JavaScript Specification
+- [ToonTalk - Infinite cardinality of sets](https://toontalk.github.io/ToonTalk/docs/activities/infinity/cardinality-activity-1.html)
 
 Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)
 
