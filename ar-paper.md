@@ -1,5 +1,5 @@
 ---
-modified: 2021-03-03T21:18:48-05:00
+modified: 2021-03-03T21:21:39-05:00
 ---
 
 # AR Paper
@@ -26,3 +26,5 @@ Printed Matter's ["Tables"](https://www.printedmatter.org/catalog/tables/11555) 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/6107398/original_5ef41024ea80ff1819d81312cb036672.gif?1581045486?bc=0)
 
 https://shreevatsa.net/mobius-print/
+
+https://byorgey.wordpress.com/how-to-print-things/
