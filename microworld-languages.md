@@ -15,7 +15,6 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 
 - [Calculus with Julia](https://juliahub.com/docs/CalculusWithJulia/AZHbv/0.0.5/)
   - [Math 229 Projects](http://mth229.github.io/) (College of Staten Island course on calculus with julia)
-- [Probabilistic Models of Cognition]() (taught with WebPPL, a probabilistic programming language)
 - [Statistics with Julia](https://statisticswithjulia.org/)
 - [Designing Sound](https://mitpress.mit.edu/books/designing-sound) (with Pd)
 - [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics) (in Scheme)
@@ -23,13 +22,18 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [Qiskit](https://github.com/Qiskit/qiskit/)
 - [Programming Language Foundations in Agda](https://plfa.github.io/)
 - [Monotone Co-design Theory](https://co-design.science/animations/)
-- [ArviZ: Exploratory analysis of Bayesian models](https://arviz-devs.github.io/arviz/)
+- **Probabilistic Programming**
+  - [ArviZ: Exploratory analysis of Bayesian models](https://arviz-devs.github.io/arviz/)
+  - [Edward](http://edwardlib.org/)
+  - [Probabilistic Models of Cognition](https://probmods.org/) (taught with WebPPL, a probabilistic programming language)
 - [Xena Project](https://wwwf.imperial.ac.uk/~buzzard/xena/) (check their Lean "Natural Number Game")
 - [PyZX](https://pyzx.readthedocs.io/en/latest/)
 - [Turtles Termites and Traffic Jams](https://mitpress.mit.edu/books/turtles-termites-and-traffic-jams)
 - [Arend Theorem Prover](https://arend-lang.github.io/) - Cubical Type Theory as an IntelliJ Plugin
 - [Wolfram U](https://www.wolfram.com/wolfram-u/) - learn domains through Mathematica
-- [Haskell School of Music](https://www.cambridge.org/core/books/haskell-school-of-music/6B377BCD40386E9D27EB93FC2F3B13FB#fndtn-information)
+- **Haskell+Music Theory**
+  - [Haskell School of Music](https://www.cambridge.org/core/books/haskell-school-of-music/6B377BCD40386E9D27EB93FC2F3B13FB#fndtn-information)
+  - [Mezzo: A Haskell library for typesafe music composition](https://github.com/DimaSamoz/mezzo)
 - [Haskell Road to Logic, Maths, and Programming](https://staff.fnwi.uva.nl/d.j.n.vaneijck2/HR/)
 - [The Little Typer](https://mitpress.mit.edu/books/little-typer)
 - [Think Complexity](https://greenteapress.com/complexity/)
@@ -37,6 +41,8 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [Math as Code](https://github.com/Jam3/math-as-code) - a bit disappointing in scope, but fun sentiment
 - [Fantasy Land](https://github.com/fantasyland/fantasy-land) - Algebraic JavaScript Specification
 - [ToonTalk - Infinite cardinality of sets](https://toontalk.github.io/ToonTalk/docs/activities/infinity/cardinality-activity-1.html)
+- [Knuth's MIX for Art of Computer Programming](https://en.wikipedia.org/wiki/MIX)
+- [Modeling Game Theory in Haskell - HAGL](http://web.engr.oregonstate.edu/~walkiner/projects/hagl.html)
 
 Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)
 

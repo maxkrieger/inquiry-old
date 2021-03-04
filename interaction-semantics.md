@@ -10,6 +10,8 @@ Programming semantics are well-studied. What about direct manipulation semantics
 
 ([Fructure](https://github.com/disconcision/fructure). BTW I'm not just talking about program editors, they're just a convenient example to point to.)
 
+- [Semantics of Visual Languages](http://web.engr.oregonstate.edu/~erwig/vlsem/)
+
 ## Direct manipulation (mouse, not keyboard)
 
 What even is a program? You can make great Smalltalk ([[system-archaeology]]) programs without writing much code at all. I'm not talking about [no-code/future-code](https://futureofcoding.org/catalog/), but rather, _writing a trace of behavior_ by _live_ (not premeditated) interactions on objects.
