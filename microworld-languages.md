@@ -1,5 +1,5 @@
 ---
-modified: 2021-03-04T17:59:18-05:00
+modified: 2021-03-04T18:00:13-05:00
 ---
 
 # Domain-Learning with Computational Microworlds
@@ -52,7 +52,8 @@ Note: I'm neglecting tons of python stuff. Probably because I think type systems
 
 ### Misc
 
-- [Metalinguistic abstraction](https://en.m.wikipedia.org/wiki/Metalinguistic_abstraction)
+- [Metalinguistic abstraction](https://en.m.wikipedia.org/wiki/Metalinguistic_abstraction) & DSL design
+  - taxonomy of bespoke languages for instructional texts
 - [MathCell](https://mathcell.org/) for embedding math in webpages.
 
   ![](attachments/2021-01-29-01-38-57.png)
