@@ -1,3 +1,7 @@
+---
+modified: 2021-03-03T21:26:34-05:00
+---
+
 # AR Paper
 
 No, not dynamicland. But a lightweight handheld version of [Sitterwerk Library](https://www.sitterwerk.ch/)
@@ -20,3 +24,6 @@ Es Devlin does something similar _in her mind_ in the [process piece here](https
 
 Printed Matter's ["Tables"](https://www.printedmatter.org/catalog/tables/11555) (gif by Toph Tucker/Lauren Schwulst)
 ![](https://d2w9rnfcy7mm78.cloudfront.net/6107398/original_5ef41024ea80ff1819d81312cb036672.gif?1581045486?bc=0)
+
+- https://shreevatsa.net/mobius-print/
+- https://byorgey.wordpress.com/how-to-print-things/
