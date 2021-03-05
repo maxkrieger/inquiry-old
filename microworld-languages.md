@@ -34,8 +34,9 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - **Haskell+Music Theory**
   - [Haskell School of Music](https://www.cambridge.org/core/books/haskell-school-of-music/6B377BCD40386E9D27EB93FC2F3B13FB#fndtn-information)
   - [Mezzo: A Haskell library for typesafe music composition](https://github.com/DimaSamoz/mezzo)
+  - [Haskore: a set of Haskell modules for creating, analysing and manipulating music](https://wiki.haskell.org/Haskore)
 - [Haskell Road to Logic, Maths, and Programming](https://staff.fnwi.uva.nl/d.j.n.vaneijck2/HR/)
-- [The Little Typer](https://mitpress.mit.edu/books/little-typer)
+- [The Little Typer - type theory via bespoke "Pie" language](https://mitpress.mit.edu/books/little-typer)
 - [Think Complexity](https://greenteapress.com/complexity/)
 - [All Hail Geometric Algebra!](https://crypto.stanford.edu/~blynn/haskell/ga.html) - (in Haskell)
 - [Math as Code](https://github.com/Jam3/math-as-code) - a bit disappointing in scope, but fun sentiment
