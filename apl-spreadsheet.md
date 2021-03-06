@@ -1,3 +1,7 @@
+---
+modified: 2021-03-06T18:10:19-05:00
+---
+
 # Linear Algebra as Spreadsheet
 
 _Thanks to Garth Goldwater for a lot of the ideas here_
@@ -39,6 +43,9 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 (related: [[microworld-languages]])
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">roads not taken or uneven distribution? <a href="https://t.co/SQmgowxTKL">pic.twitter.com/SQmgowxTKL</a></p>&mdash; andrew blinn (@disconcision) <a href="https://twitter.com/disconcision/status/1357395804332429318?ref_src=twsrc%5Etfw">February 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+* https://mobile.twitter.com/code_report/status/1367968275125112835
+* https://mobile.twitter.com/code_report/status/1368030764718252032
 
 ### Random implementations of related things
 
