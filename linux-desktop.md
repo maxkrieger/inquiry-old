@@ -1,5 +1,5 @@
 ---
-modified: 2021-03-09T18:17:55-05:00
+modified: 2021-03-09T18:26:38-05:00
 ---
 
 # GNU/Linux as an environment to prototype desktop environments
@@ -9,3 +9,7 @@ modified: 2021-03-09T18:17:55-05:00
 https://www.hack-computer.com/
 
 https://sugarlabs.org/
+
+GNOME shell scriptability
+
+Fuchsia?
