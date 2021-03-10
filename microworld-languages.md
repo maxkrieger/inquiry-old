@@ -35,6 +35,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [Turtles Termites and Traffic Jams](https://mitpress.mit.edu/books/turtles-termites-and-traffic-jams)
 - [Arend Theorem Prover](https://arend-lang.github.io/) - Cubical Type Theory as an IntelliJ Plugin
 - [Wolfram U](https://www.wolfram.com/wolfram-u/) - learn domains through Mathematica
+- [Sagemath Interactions](https://wiki.sagemath.org/interact) - some explorables with Sagemath
 - **Haskell+Music Theory**
   - [Haskell School of Music](https://www.cambridge.org/core/books/haskell-school-of-music/6B377BCD40386E9D27EB93FC2F3B13FB#fndtn-information)
   - [Mezzo: A Haskell library for typesafe music composition](https://github.com/DimaSamoz/mezzo)
