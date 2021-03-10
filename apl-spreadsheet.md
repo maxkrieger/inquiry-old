@@ -76,6 +76,8 @@ One subproject ([[subprojecting]]) is not APL, but some CAS matrix toy.
 ![](attachments/2021-03-09-21-13-39.png)
 
 - [WebGL State Diagram](https://webglfundamentals.org/webgl/lessons/resources/webgl-state-diagram.html) - the "cells" are pointers
+  - Maybe each matrix is a floating table and you can multiply by constructing a graph of edges?
+  - [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 - ["Verb-noun vs noun-verb"](https://mobile.twitter.com/tophtucker/status/1278184444428529665?s=19)
 - [Mito: Edit a spreadsheet. Generate Python. All in Jupyter.](https://trymito.io/)
 - [Responsive Matrix Cells: A Focus+Context Approach for Multivariate Graphs](https://imld.de/en/research/research-projects/responsive-matrix-cells/)
