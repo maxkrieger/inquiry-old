@@ -67,7 +67,7 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 
 - What if there was a set of flashcards to learn all the APL symbols? Like [Elixir Cards](https://elixircards.co.uk/)/[PixelSpirit](https://patriciogonzalezvivo.github.io/PixelSpiritDeck/).
 
-One subproject ([[subprojecting]]) is not APL, but some CAS matrix toy.
+One subproject ([[subprojecting]]) is not APL, but some CAS matrix toy - "Linearkit".
 
 - Nicky Case's [transformation matrix toy](https://ncase.me/matrix/)
 
