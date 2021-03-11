@@ -73,6 +73,10 @@ One subproject ([[subprojecting]]) is not APL, but some CAS matrix toy.
 
 ## Direct manipulation refs
 
+- 2d
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">isolate a data column by dragging it out of the table. also got a little semantic text editing going <a href="https://t.co/ZW6ukuk2UK">pic.twitter.com/ZW6ukuk2UK</a></p>&mdash; Paul Shen (@_paulshen) <a href="https://twitter.com/_paulshen/status/1366801887341649924?ref_src=twsrc%5Etfw">March 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![](attachments/2021-03-09-21-13-39.png)
 
 - [WebGL State Diagram](https://webglfundamentals.org/webgl/lessons/resources/webgl-state-diagram.html) - the "cells" are pointers
